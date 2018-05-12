@@ -1,0 +1,37 @@
+_repo: Martelaren-van-Rusland_33719
+_version: 0.1.0
+alternative_title: Martyrs de la Russie. Dutch
+contributor:
+  translator:
+    agent_name: Wilson, S. J. Bouberg
+    gutenberg_agent_id: '36554'
+    url: http://www.gutenberg.org/2009/agents/36554
+covers:
+- cover_type: archival
+  image_path: 33719-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Michelet, Jules
+    alias: Michelet, J.
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '8214'
+    url: http://www.gutenberg.org/2009/agents/8214
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Michelet
+    - http://en.wikipedia.org/wiki/Jules_Michelet
+description: ''
+gutenberg_issued: '2010-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33719'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- History -- 1801-1917'
+- !lcsh 'Martyrs'
+- !lcc 'DK'
+title: Martelaren van Rusland
+url: http://www.gutenberg.org/ebooks/33719
